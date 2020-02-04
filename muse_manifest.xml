@@ -1,0 +1,561 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://cpanel.awardsof.com" ftp_rootfolder="/public_html" exportTarget="FTP" domain="awardsof.com,http://awardsof.com/index.html" resolutions="1x" timestamp="1549606845572">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_interior.css" crc="4171074873" ref="contact"/>
+    <file name="nomq_preview_master_interior.css" crc="410822839" ref="contact"/>
+    <file name="master_main.css" crc="10492167" ref="index"/>
+    <file name="nomq_preview_master_main.css" crc="3769924893" ref="index"/>
+    <file name="contact.css" crc="346126133" ref="contact"/>
+    <file name="nomq_contact.css" crc="303417729" ref="contact"/>
+    <file name="index.css" crc="533967224" ref="index"/>
+    <file name="nomq_index.css" crc="12438485" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:contact"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:contact"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:contact"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact"/>
+    <file name="require.js" crc="7928878" ref="index:contact"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u5569.php" crc="324852214" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="483702765" ref="index"/>
+    <file name="ome-page.jpg" crc="415754639" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website details assets-03.png" crc="4254957337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04.png" crc="169101931" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04-crop-u96867.png" crc="388573445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u822-4.png" crc="4277797791" ref="index"/>
+    <file name="pasted-svg-26.svg" crc="455464147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 26_poster_.png" crc="221058819" ref="index"/>
+    <file name="pasted-svg-34.svg" crc="31917678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 34_poster_.png" crc="4154543313" ref="index"/>
+    <file name="pasted-svg-40.svg" crc="4161937515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 40_poster_.png" crc="4217783957" ref="index"/>
+    <file name="pasted-svg-33.svg" crc="3987479858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 33_poster_.png" crc="269697820" ref="index"/>
+    <file name="publish-icon.svg" crc="3974283347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="publish icon_poster_.png" crc="4007163411" ref="index"/>
+    <file name="shutterstock_741180751.jpg" crc="403755719" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_272057612-crop-u93511.jpg" crc="4060245173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2354-4.png" crc="4246730992" ref="index"/>
+    <file name="shutterstock_275269550-crop-u118700.jpg" crc="3911228395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u118766.jpg" crc="25975674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_245862691.jpg" crc="378305441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u118744.jpg" crc="285883787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_258016970-u13841-fr.jpg" crc="485165038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_359681597.jpg" crc="4126692170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u97520.jpg" crc="160111048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3695-4.png" crc="110552231" ref="index"/>
+    <file name="pasted-svg-300x300.svg" crc="279629554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 300x300_poster_.png" crc="4040573370" ref="index"/>
+    <file name="pasted-svg-300x3002.svg" crc="3804877478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 300x300_poster_2.png" crc="4151461004" ref="index"/>
+    <file name="pasted-svg-300x3003.svg" crc="4105463495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 300x300_poster_3.png" crc="4106693665" ref="index"/>
+    <file name="pasted-svg-300x3004.svg" crc="3930488801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 300x300_poster_4.png" crc="90548297" ref="index"/>
+    <file name="shutterstock_132708305.jpg" crc="55667775" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iacc logo.png" crc="4070168775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fapcci.png" crc="4258411825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pupilsight logo final-03.png" crc="30231529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact"/>
+    <file name="u2313.png" crc="4276915256" ref="index"/>
+    <file name="u2313-r.png" crc="3855841741" ref="index"/>
+    <file name="u2313-a.png" crc="76906840" ref="index"/>
+    <file name="u458.png" crc="4229267433" ref="index"/>
+    <file name="u458-r.png" crc="4083955772" ref="index"/>
+    <file name="u458-a.png" crc="4073677841" ref="index"/>
+    <file name="u444.png" crc="184984827" ref="index"/>
+    <file name="u444-r.png" crc="268341056" ref="index"/>
+    <file name="u444-a.png" crc="4185134757" ref="index"/>
+    <file name="u790.png" crc="4281042734" ref="index"/>
+    <file name="u790-r.png" crc="3825051901" ref="index"/>
+    <file name="u790-a.png" crc="3762357538" ref="index"/>
+    <file name="u448.png" crc="4215089021" ref="index"/>
+    <file name="u448-r.png" crc="4211071264" ref="index"/>
+    <file name="u448-a.png" crc="153669204" ref="index"/>
+    <file name="website details assets-05.png" crc="153390565" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u32121.png" crc="4218296314" ref="index"/>
+    <file name="u32121-r.png" crc="3861888297" ref="index"/>
+    <file name="u32121-a.png" crc="4257706819" ref="index"/>
+    <file name="u32091.png" crc="4190243940" ref="index"/>
+    <file name="u32091-r.png" crc="410765219" ref="index"/>
+    <file name="u32091-a.png" crc="3929624859" ref="index"/>
+    <file name="u32113.png" crc="4155579873" ref="index"/>
+    <file name="u32113-r.png" crc="4275272397" ref="index"/>
+    <file name="u32113-a.png" crc="4253646038" ref="index"/>
+    <file name="u32099.png" crc="3906280801" ref="index"/>
+    <file name="u32099-r.png" crc="3921410964" ref="index"/>
+    <file name="u32099-a.png" crc="41242507" ref="index"/>
+    <file name="u32107.png" crc="3813979614" ref="index"/>
+    <file name="u32107-r.png" crc="4165193990" ref="index"/>
+    <file name="u32107-a.png" crc="4230480830" ref="index"/>
+    <file name="website details assets-04301x207.png" crc="397268080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-37.svg" crc="3865961977" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 37_poster_.png" crc="297215124" ref="index"/>
+    <file name="pasted-svg-52179x34.svg" crc="4204705870" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 52179x34_poster_.png" crc="470140342" ref="index"/>
+    <file name="website 2017 highights assets-04-crop-u968672.png" crc="3977603817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_272057612-crop-u935112.jpg" crc="142071286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_275269550-crop-u1187002.jpg" crc="176840742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u1187662.jpg" crc="440012158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u1187442.jpg" crc="200641427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u975202.jpg" crc="3870026792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fapcci184x184.png" crc="4258411825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04-u96867-fr.png" crc="303022815" ref="index"/>
+    <file name="website 2017 highights assets-04-crop-u968673.png" crc="4287845654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-u93511-fr.jpg" crc="3963046070" ref="index"/>
+    <file name="shutterstock_272057612-crop-u935113.jpg" crc="221653186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_275269550-crop-u1187003.jpg" crc="3938495071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u1187663.jpg" crc="403324489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u1187443.jpg" crc="385935735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u975203.jpg" crc="433857864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_132708305-u113659-fr.jpg" crc="127445371" ref="index"/>
+    <file name="fapcci214x214.png" crc="4258411825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website details assets-03483x331.png" crc="4254957337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04-u96867-fr2.png" crc="4279698786" ref="index"/>
+    <file name="website 2017 highights assets-04-crop-u968674.png" crc="3931872262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-u93511-fr2.jpg" crc="4248891970" ref="index"/>
+    <file name="shutterstock_272057612-crop-u935114.jpg" crc="283808332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u1187664.jpg" crc="4207851493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_275269550-crop-u1187004.jpg" crc="3960046062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u1187444.jpg" crc="4013116401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u975204.jpg" crc="3836943162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_132708305-u113659-fr2.jpg" crc="306679728" ref="index"/>
+    <file name="iacc logo-crop-u115146.png" crc="292316913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fapcci139x139.png" crc="4098069307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pupilsight logo final-03256x256.png" crc="254925009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 52x52.svg" crc="299194994" ref="index:contact"/>
+    <file name="pasted svg 52x52_poster_u23897.png" crc="22267940" ref="index:contact"/>
+    <file name="pasted svg 52x522.svg" crc="83140094" ref="index:contact"/>
+    <file name="pasted svg 52x52_poster_u23967.png" crc="4288379063" ref="index:contact"/>
+    <file name="pasted svg 52x523.svg" crc="83140094" ref="index:contact"/>
+    <file name="pasted svg 52x52_poster_u23818.png" crc="4288379063" ref="index:contact"/>
+    <file name="website details assets-03293x202.png" crc="4254957337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04-u96867-fr3.png" crc="422811673" ref="index"/>
+    <file name="website 2017 highights assets-04-crop-u968675.png" crc="4056284306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-u93511-fr3.jpg" crc="3903768407" ref="index"/>
+    <file name="shutterstock_272057612-crop-u935115.jpg" crc="86685506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u1187665.jpg" crc="4084378176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_275269550-crop-u1187005.jpg" crc="4035764425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u1187445.jpg" crc="4002197310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u975205.jpg" crc="4103208822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_132708305-u113659-fr3.jpg" crc="162853739" ref="index"/>
+    <file name="fapcci120x120.png" crc="158346736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pupilsight logo final-03204x204.png" crc="67937740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website details assets-03288x197.png" crc="4254957337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04-u96867-fr4.png" crc="414597087" ref="index"/>
+    <file name="website 2017 highights assets-04-crop-u968676.png" crc="3860849555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-u93511-fr4.jpg" crc="199478351" ref="index"/>
+    <file name="shutterstock_272057612-crop-u935116.jpg" crc="4191944863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u1187666.jpg" crc="403842383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_275269550-crop-u1187006.jpg" crc="4102077055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u1187446.jpg" crc="179829389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u975206.jpg" crc="481748678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_132708305-u113659-fr4.jpg" crc="397892645" ref="index"/>
+    <file name="fapcci98x98.png" crc="198871295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website details assets-03248x171.png" crc="3762318310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website 2017 highights assets-04-u96867-fr5.png" crc="330997220" ref="index"/>
+    <file name="website 2017 highights assets-04-crop-u968677.png" crc="285597953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-u93511-fr5.jpg" crc="3812424331" ref="index"/>
+    <file name="shutterstock_272057612-crop-u935117.jpg" crc="288599284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31 innovation in parent engagement-crop-u1187667.jpg" crc="500312063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_275269550-crop-u1187007.jpg" crc="194265190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_153183566-crop-u1187447.jpg" crc="361467948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_741180751-crop-u975207.jpg" crc="3814782009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_132708305-u113659-fr5.jpg" crc="531402262" ref="index"/>
+    <file name="fapcci79x79.png" crc="4189278998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-favicon.ico" crc="483702765" ref="contact"/>
+    <file name="website details assets-04.png" crc="397268080" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="website details assets new v5-06.png" crc="3979834736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tkrtojtroj-01.png" crc="31490054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tkrtojtroj-01966x242.png" crc="314716621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tkrtojtroj-01604x151.png" crc="366262505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tkrtojtroj-01427x107.png" crc="3826016193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tkrtojtroj-01361x91.png" crc="478305073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tkrtojtroj-01321x81.png" crc="3781890887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4016214822" seo="true" mt="1549606812313" redirect="true"/>
+  <file name="contact.html" crc="4015714061" seo="true" mt="1544249969185" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U25284" maxwidth="360" minwidth="0" squishy="false"/>
+        <breakpoint uid="U24217" maxwidth="426" minwidth="361" squishy="false"/>
+        <breakpoint uid="U23340" maxwidth="600" minwidth="427" squishy="false"/>
+        <breakpoint uid="U19917" maxwidth="768" minwidth="601" squishy="false"/>
+        <breakpoint uid="U18039" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U15638" maxwidth="1200" minwidth="961" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="1400" minwidth="1201" squishy="false"/>
+        <anchor name="home" html_id="home" muse_href="anchor:U82:U14104" includeInBPs="U25284,U24217,U23340,U19917,U18039,U15638,U83"/>
+        <anchor name="Nom" html_id="nom" muse_href="anchor:U82:U14107" includeInBPs="U25284,U24217,U23340,U19917,U18039,U15638,U83"/>
+        <anchor name="Partners" html_id="partners" muse_href="anchor:U82:U14110" includeInBPs="U25284,U24217,U23340,U19917,U18039,U15638,U83"/>
+        <anchor name="Details" html_id="details" muse_href="anchor:U82:U14284" includeInBPs="U25284,U24217,U23340,U19917,U18039,U15638,U83"/>
+      </page>
+      <masterPage name="Main" master="U62" uid="U72">
+        <breakpoint uid="U15229" maxwidth="360" minwidth="0" squishy="false"/>
+        <breakpoint uid="U15117" maxwidth="600" minwidth="361" squishy="false"/>
+        <breakpoint uid="U15061" maxwidth="768" minwidth="601" squishy="false"/>
+        <breakpoint uid="U15005" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U14949" maxwidth="1200" minwidth="961" squishy="false"/>
+        <breakpoint uid="U73" maxwidth="1400" minwidth="1201" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Contact" filename="contact.html" muse_href="page:U4605" master="U3980">
+        <breakpoint uid="U28960" maxwidth="360" minwidth="0" squishy="false"/>
+        <breakpoint uid="U28898" maxwidth="480" minwidth="361" squishy="false"/>
+        <breakpoint uid="U28836" maxwidth="600" minwidth="481" squishy="false"/>
+        <breakpoint uid="U28763" maxwidth="768" minwidth="601" squishy="false"/>
+        <breakpoint uid="U28361" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U25601" maxwidth="1200" minwidth="961" squishy="false"/>
+        <breakpoint uid="U4589" maxwidth="1400" minwidth="1201" squishy="false"/>
+      </page>
+      <masterPage name="Interior" master="U62" uid="U3980">
+        <breakpoint uid="U27816" maxwidth="360" minwidth="0" squishy="false"/>
+        <breakpoint uid="U27673" maxwidth="480" minwidth="361" squishy="false"/>
+        <breakpoint uid="U27530" maxwidth="600" minwidth="481" squishy="false"/>
+        <breakpoint uid="U26897" maxwidth="768" minwidth="601" squishy="false"/>
+        <breakpoint uid="U26165" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U25868" maxwidth="1200" minwidth="961" squishy="false"/>
+        <breakpoint uid="U3981" maxwidth="1400" minwidth="1201" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
